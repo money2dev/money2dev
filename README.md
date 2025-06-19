@@ -9,32 +9,86 @@
 ### 🧠 About Me
 
 - 🛡️ Cyber Security Analyst & Ethical Hacker  
-- 🧪 Lab rat on [Hack The Box](https://www.hackthebox.com/) (handle: `Money`)
-- 🐧 Hardcore Linux user – no GUI, no mercy.
-- 🛠️ I build scripts, tools, and little monsters for fun.
-- 📜 Terminal is my canvas, Bash is my brush.
-- 🌐 Currently experimenting with AI + CyberSec fusion.
+- 🧪 Active on [Hack The Box](https://www.hackthebox.com/) (`Money`)
+- 🐧 Linux is my domain – Arch, Kali, custom kernels  
+- 🔧 I build, break, analyze and automate.
+- ⚙️ Reverse engineering enthusiast & low-level binary manipulator
+- ☠️ “Hacker is not a job, it’s a mindset.”
 
 ---
 
 ### 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <!-- OS / Core tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
+  <!-- Programming languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" height="40" alt="Assembly" />
+  
+  <!-- Other tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </p>
 
 ---
 
-### 🧨 Projects & Labs
+### 🔐 Skills
 
-```bash
-🔒 /hacktools/money-recon        → Automated reconnaissance toolkit  
-👁️  /exploits/zero-day-baby      → "Just a PoC... or is it?"  
-🐚 /scripts/revsh-gen            → Quick & dirty reverse shell builder  
-🎯 /ctf/htb/machines             → My journey through Hack The Box
+<pre>
+
+✅ Penetration Testing          ✅ Reverse Engineering         ✅ Exploit Development  
+✅ Malware Analysis             ✅ Network Sniffing & MITM     ✅ Privilege Escalation  
+✅ OSINT & Reconnaissance       ✅ Social Engineering          ✅ Red Teaming  
+✅ Web Exploitation (XSS, SQLi, SSTI, RCE)  
+✅ Binary Exploitation (BOF, Format Strings, ROP)  
+✅ Wireless Attacks (WPA/WEP, Rogue AP, Deauth)  
+✅ Linux Hardening & Forensics  
+✅ Buffer Overflow (Windows/Linux/x86/x64)  
+✅ Phishing Simulation & Payload Crafting  
+✅ Custom Backdoors & Shell Generators  
+✅ C2 Frameworks (Empire, Cobalt Strike-like)  
+✅ AV & EDR Evasion Techniques  
+✅ Crypto Attacks (ECB, CBC Padding, RSA)  
+✅ Log & Traffic Analysis (PCAP, Wireshark, Zeek)  
+✅ Threat Hunting & IOC Extraction  
+✅ Docker Container Escapes & Misconfigs  
+✅ Custom Tool Development (Python, C++, Go, Bash)  
+✅ ARM / x86 Assembly Debugging (Ghidra, radare2, IDA)  
+✅ Windows AD Enumeration & Attacks  
+✅ Lateral Movement & Persistence Tactics  
+
+</pre>
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Money&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Money&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Money&theme=onedark&row=1" />
+</p>
+
+---
+
+### 💻 Terminal Quote
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&font=Fira%20Code&quote=You%20can’t%20patch%20human%20curiosity." />
+</p>
