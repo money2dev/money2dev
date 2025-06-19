@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🛡️ Cyber Security Analyst & Ethical Hacker  
-- 🧪 Active on [Hack The Box](https://www.hackthebox.com/) (`Money`)
+- 🧪 Active on [Hack The Box](https://www.hackthebox.com/) 
 - 🐧 Linux is my domain – Arch, Kali, custom kernels  
 - 🔧 I build, break, analyze and automate.
 - ⚙️ Reverse engineering enthusiast & low-level binary manipulator
@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" height="40" alt="Assembly" />
   
   <!-- Other tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -87,8 +86,3 @@
 </p>
 
 ---
-
-### 💻 Terminal Quote
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&font=Fira%20Code&quote=You%20can’t%20patch%20human%20curiosity." />
-</p>
